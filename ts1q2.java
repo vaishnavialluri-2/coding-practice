@@ -1,3 +1,5 @@
+//Given N integers where every value lies in [0, 9], print how many times each value 0..9 appears.
+
 import java.util.*;
 public class ts1q2 {
     public static void main(String[] args) {
